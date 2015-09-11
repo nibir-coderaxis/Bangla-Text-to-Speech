@@ -1,3 +1,2 @@
-# Bangla-Text-to-Speech
-My class project where written bengali text are converted to speech.
-Assets will be available on request.
+Bangla Text-to-Speech
+A Bangla TTS work on JAVA. We have worked for Android library. Assets will be available on request.
